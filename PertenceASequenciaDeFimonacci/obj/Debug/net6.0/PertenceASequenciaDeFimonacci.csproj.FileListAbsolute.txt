@@ -1,0 +1,15 @@
+C:\Aprendendo CSharp\abasd\PertenceASequenciaDeFimonacci\bin\Debug\net6.0\PertenceASequenciaDeFimonacci.exe
+C:\Aprendendo CSharp\abasd\PertenceASequenciaDeFimonacci\bin\Debug\net6.0\PertenceASequenciaDeFimonacci.deps.json
+C:\Aprendendo CSharp\abasd\PertenceASequenciaDeFimonacci\bin\Debug\net6.0\PertenceASequenciaDeFimonacci.runtimeconfig.json
+C:\Aprendendo CSharp\abasd\PertenceASequenciaDeFimonacci\bin\Debug\net6.0\PertenceASequenciaDeFimonacci.dll
+C:\Aprendendo CSharp\abasd\PertenceASequenciaDeFimonacci\bin\Debug\net6.0\PertenceASequenciaDeFimonacci.pdb
+C:\Aprendendo CSharp\abasd\PertenceASequenciaDeFimonacci\obj\Debug\net6.0\PertenceASequenciaDeFimonacci.csproj.AssemblyReference.cache
+C:\Aprendendo CSharp\abasd\PertenceASequenciaDeFimonacci\obj\Debug\net6.0\PertenceASequenciaDeFimonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aprendendo CSharp\abasd\PertenceASequenciaDeFimonacci\obj\Debug\net6.0\PertenceASequenciaDeFimonacci.AssemblyInfoInputs.cache
+C:\Aprendendo CSharp\abasd\PertenceASequenciaDeFimonacci\obj\Debug\net6.0\PertenceASequenciaDeFimonacci.AssemblyInfo.cs
+C:\Aprendendo CSharp\abasd\PertenceASequenciaDeFimonacci\obj\Debug\net6.0\PertenceASequenciaDeFimonacci.csproj.CoreCompileInputs.cache
+C:\Aprendendo CSharp\abasd\PertenceASequenciaDeFimonacci\obj\Debug\net6.0\PertenceASequenciaDeFimonacci.dll
+C:\Aprendendo CSharp\abasd\PertenceASequenciaDeFimonacci\obj\Debug\net6.0\refint\PertenceASequenciaDeFimonacci.dll
+C:\Aprendendo CSharp\abasd\PertenceASequenciaDeFimonacci\obj\Debug\net6.0\PertenceASequenciaDeFimonacci.pdb
+C:\Aprendendo CSharp\abasd\PertenceASequenciaDeFimonacci\obj\Debug\net6.0\PertenceASequenciaDeFimonacci.genruntimeconfig.cache
+C:\Aprendendo CSharp\abasd\PertenceASequenciaDeFimonacci\obj\Debug\net6.0\ref\PertenceASequenciaDeFimonacci.dll
